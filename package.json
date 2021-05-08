@@ -22,7 +22,7 @@
     "path": "^0.12.7",
     "type-graphql": "^0.17.5",
     "typedi": "^0.8.0",
-    "typeorm": "0.2.20"
+    "typeorm": "0.2.25"
   },
   "scripts": {
     "start": "nodemon --exec ts-node --files src/app.ts",
